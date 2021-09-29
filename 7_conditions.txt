@@ -1,0 +1,35 @@
+if it's hot
+    it's a hot day
+    drink plenty of water
+otherwise if it's cold
+    it's a cold day
+    wear warm clothes
+otherwise
+    it's a lovely day
+
+Test Case 1:
+Price of a house is $1M
+If buyer has good credit
+    they need to put down 10%
+otherwise
+    they need to put down 20%
+print the down payment
+
+Test Case 2:
+if applicant has high income AND good credit
+    Eligible for loan
+
+Test Case 3:
+if name is less than 3 characters long
+    name must be at least 3 characters
+otherwise if it's more than 50 characters long
+    name can be a maximum of 50 characters
+otherwise
+    name looks good
+
+Test Case 4:
+Input Weight
+If it is in Lbs
+    convert to kg
+Otherwise
+    convert to lbs

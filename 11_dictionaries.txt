@@ -1,0 +1,4 @@
+customer :
+    name: Dicki Sujadi
+    email: dickisujadi@gmail.com
+    age : 28
